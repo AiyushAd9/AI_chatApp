@@ -1,0 +1,164 @@
+[
+  {
+    "userId": 1778322746314,
+    "message": "hello",
+    "response": "AI says: hello",
+    "createdAt": "2026-05-10T04:23:15.404Z"
+  },
+  {
+    "userId": 1778322746314,
+    "message": "hiii",
+    "response": "AI says: hiii",
+    "createdAt": "2026-05-10T04:23:45.490Z"
+  },
+  {
+    "userId": 1778322746314,
+    "message": "how are you?",
+    "response": "AI says: how are you?",
+    "createdAt": "2026-05-10T04:23:56.029Z"
+  },
+  {
+    "userId": 1778322746314,
+    "message": "hello",
+    "response": "Hello! How can I assist you today?",
+    "createdAt": "2026-05-10T04:32:20.380Z"
+  },
+  {
+    "userId": 1778322746314,
+    "message": "tell me something about mumbai",
+    "response": "Mumbai, formerly known as Bombay, is the capital city of the Indian state of Maharashtra. It is the most populous city in India and the seventh most populous city in the world. Mumbai is considered the financial, commercial, and entertainment capital of India, and it is home to the country's largest film industry, commonly referred to as Bollywood.\n\nThe city is known for its vibrant culture, diverse cuisine, and famous landmarks such as the Gateway of India, Marine Drive, and the Chhatrapati Shivaji Terminus. Mumbai is also a hub for business and commerce, with many multinational corporations and financial institutions having offices in the city.\n\nMumbai is a melting pot of different cultures and traditions, with a mix of Hindu, Muslim, Sikh, Christian, and Parsi communities living together harmoniously. The city is also known for its bustling street markets, high-end shopping malls, and vibrant nightlife.\n\nOverall, Mumbai is a dynamic and bustling metropolis that offers a unique blend of history, culture, and modernity.",
+    "createdAt": "2026-05-10T04:32:48.563Z"
+  },
+  {
+    "userId": 1778322746314,
+    "message": "what is the time now in london?",
+    "response": "I apologize, but as a language model AI, I do not have access to real-time data. Please check a reliable source like a clock, website, or phone for the current time in London.",
+    "createdAt": "2026-05-10T04:33:10.994Z"
+  },
+  {
+    "userId": 1778322746314,
+    "message": "what things are you capable of?",
+    "response": "As an AI assistant, I am capable of performing a wide range of tasks, including answering questions, providing information, setting reminders and alarms, creating calendars, playing music, making phone calls, sending messages, providing weather forecasts, and much more. I can also assist with tasks such as translating languages, converting measurements, providing recommendations, and helping with research. Additionally, I am continuously learning and improving my capabilities to better assist users in various ways.",
+    "createdAt": "2026-05-10T04:33:44.061Z"
+  },
+  {
+    "userId": 1778322746314,
+    "message": "can you tell me the recipy of butter chicken?",
+    "response": "Sure! Here is a basic recipe for butter chicken:\n\nIngredients:\n- 1 1/2 lbs boneless, skinless chicken breasts, cut into bite-sized chunks\n- 1 cup plain yogurt\n- 2 tsp garam masala\n- 2 tsp ground cumin\n- 1 tbsp ground turmeric\n- 1 tbsp ground coriander\n- 1 tsp chili powder\n- Salt and pepper to taste\n- 4 tbsp butter\n- 1 onion, finely chopped\n- 3 cloves garlic, minced\n- 1-inch piece of ginger, grated\n- 1 can (14 oz) tomato sauce\n- 1 cup heavy cream\n- 1/4 cup chopped fresh cilantro\n\nInstructions:\n1. In a large bowl, mix together the yogurt, garam masala, cumin, turmeric, coriander, chili powder, salt, and pepper. Add the chicken chunks and stir to coat. Cover and refrigerate for at least 1 hour, or overnight for best results.\n\n2. In a large skillet, melt the butter over medium heat. Add the onion, garlic, and ginger and cook until softened, about 5 minutes.\n\n3. Add the marinated chicken to the skillet and cook until browned on all sides, about 8-10 minutes.\n\n4. Stir in the tomato sauce and bring to a simmer. Cook for another 10 minutes, stirring occasionally.\n\n5. Stir in the heavy cream and simmer for an additional 5 minutes.\n\n6. Remove from heat and stir in the chopped cilantro. Serve hot with rice or naan.\n\nEnjoy your delicious butter chicken!",
+    "createdAt": "2026-05-10T04:34:56.967Z"
+  },
+  {
+    "userId": 1778322746314,
+    "message": "okay, Thank you",
+    "response": "You're welcome! If you have any more questions or need help with anything else, feel free to ask. Have a great day!",
+    "createdAt": "2026-05-10T04:35:17.448Z"
+  },
+  {
+    "userId": 1778388012357,
+    "message": "hello",
+    "response": "Hello! How can I assist you today?",
+    "createdAt": "2026-05-10T04:40:31.261Z"
+  },
+  {
+    "userId": 1778388012357,
+    "message": "what is my name?",
+    "response": "I'm sorry, I don't know your name.",
+    "createdAt": "2026-05-10T04:40:40.482Z"
+  },
+  {
+    "userId": 1778388012357,
+    "message": "can you remember my name?",
+    "response": "I'm sorry, as an AI, I don't have the ability to remember personal information unless you choose to share it with me during our conversation.",
+    "createdAt": "2026-05-10T04:40:54.745Z"
+  },
+  {
+    "userId": 1778388012357,
+    "message": "may name is rita",
+    "response": "Hello Rita, how can I assist you today?",
+    "createdAt": "2026-05-10T04:41:09.091Z"
+  },
+  {
+    "userId": 1778388012357,
+    "message": "so whats my name?",
+    "response": "I'm sorry, as an AI assistant, I do not have access to your personal information, including your name. Could you please provide me with your name?",
+    "createdAt": "2026-05-10T04:41:21.537Z"
+  },
+  {
+    "userId": 1778388012357,
+    "message": "Rita",
+    "response": "Hello Rita! How can I assist you today?",
+    "createdAt": "2026-05-10T04:41:33.311Z"
+  },
+  {
+    "userId": 1778388012357,
+    "message": "who is the CM of westbengal?",
+    "response": "The Chief Minister of West Bengal is Mamata Banerjee.",
+    "createdAt": "2026-05-10T04:43:22.762Z"
+  },
+  {
+    "userId": 1778388012357,
+    "message": "Famous dance culrure name in assam",
+    "response": "Bihu dance is one of the most famous dance cultures in Assam. It is a traditional folk dance performed during the Bihu festival, which celebrates the Assamese New Year and the onset of the agricultural season. The dance is characterized by energetic and rhythmic movements, accompanied by traditional Assamese music and instruments.",
+    "createdAt": "2026-05-10T04:44:03.570Z"
+  },
+  {
+    "userId": 1778388012357,
+    "message": "could you please provide me Indian featherback fish recipy?",
+    "response": "Certainly! Here is a simple Indian featherback fish curry recipe:\n\nIngredients:\n- 500g Indian featherback fish fillets\n- 1 onion, sliced\n- 2 tomatoes, chopped\n- 1 tsp ginger-garlic paste\n- 1 tsp red chili powder\n- 1/2 tsp turmeric powder\n- 1 tsp coriander powder\n- 1/2 tsp cumin powder\n- 1/2 tsp garam masala\n- Salt to taste\n- 2 tbsp oil\n- Fresh coriander leaves for garnish\n\nInstructions:\n1. Heat oil in a pan and add sliced onions. Saute until the onions turn translucent.\n2. Add ginger-garlic paste and cook for 1-2 minutes until the raw smell goes away.\n3. Add chopped tomatoes, red chili powder, turmeric powder, coriander powder, cumin powder, and salt. Cook until the tomatoes are soft and the oil starts to separate.\n4. Add the fish fillets and coat them well with the masala. Cook for 2-3 minutes on each side.\n5. Add water to the pan to create a gravy consistency and simmer for 5-10 minutes until the fish is cooked through.\n6. Sprinkle garam masala and garnish with fresh coriander leaves before serving.\n7. Serve hot with steamed rice or naan bread.\n\nEnjoy your Indian featherback fish curry!",
+    "createdAt": "2026-05-10T04:45:58.414Z"
+  },
+  {
+    "userId": 1778388012357,
+    "message": "if i have to send percel to some one, how can i do that?",
+    "response": "1. Choose a reliable courier service: Research different courier companies and choose one that is known for their fast and secure delivery services.\n\n2. Package the item: Make sure to properly pack the item in a sturdy box or envelope to prevent damage during transit.\n\n3. Address the parcel: Clearly write the recipient's address and your return address on the package.\n\n4. Choose a shipping option: Select a shipping option based on your budget and desired delivery time frame. Options may include standard, express, or overnight delivery.\n\n5. Pay for shipping: Pay for the shipping costs at the courier service provider's office or online if available.\n\n6. Tracking number: Request a tracking number so you can monitor the progress of the parcel delivery.\n\n7. Drop off the parcel: Take the packaged item to the courier service provider's office, drop-off location, or schedule a pick-up if available.\n\n8. Receive confirmation: Once the parcel is successfully sent, make sure to keep the tracking number handy for any updates or inquiries about the delivery status.\n\n9. Notify the recipient: Let the recipient know that the parcel is on its way and provide them with the tracking number if needed.",
+    "createdAt": "2026-05-10T04:47:53.379Z"
+  },
+  {
+    "userId": 1779170284471,
+    "message": "What is the fastest thing in the universe?",
+    "response": "The fastest thing in the universe is the speed of light, which travels at a speed of about 186,282 miles per second (299,792 kilometers per second) in a vacuum.",
+    "createdAt": "2026-05-19T05:59:18.197Z"
+  },
+  {
+    "userId": 1779170284471,
+    "message": "what is the fastest thing in this world?",
+    "response": "The fastest thing in the world is light, which travels at a speed of approximately 299,792 kilometers per second in a vacuum.",
+    "createdAt": "2026-05-19T05:59:55.760Z"
+  },
+  {
+    "userId": 1779170284471,
+    "message": "but what about human mind?",
+    "response": "The human mind is a complex and fascinating subject that has been studied for centuries by psychologists, neuroscientists, and philosophers. It is responsible for a wide range of cognitive functions, including perception, memory, reasoning, emotions, and consciousness.\n\nSome theories suggest that the mind is a product of the physical brain and its neural networks, while others propose that it is a separate entity that exists independently of the body. The study of the mind involves exploring issues such as consciousness, free will, self-awareness, and the nature of mental illness.\n\nOverall, the human mind remains a mysterious and largely uncharted territory, with much still to be discovered and understood about its inner workings.",
+    "createdAt": "2026-05-19T06:01:15.309Z"
+  },
+  {
+    "userId": 1779170284471,
+    "message": "so what is faster.. light or human mind?",
+    "response": "Light is faster than the human mind. The speed of light is approximately 299,792 kilometers per second, while the speed of neural impulses in the human brain is around 100 meters per second.",
+    "createdAt": "2026-05-19T06:01:53.085Z"
+  },
+  {
+    "userId": 1779338059318,
+    "message": "HELLO",
+    "response": "Hello! How can I assist you today?",
+    "createdAt": "2026-05-21T04:35:29.621Z"
+  },
+  {
+    "userId": 1779338059318,
+    "message": "cm of west bengal",
+    "response": "West Bengal is a state in eastern India, and its capital is Kolkata. It is 88.752 square kilometers in area.",
+    "createdAt": "2026-05-21T04:35:42.140Z"
+  },
+  {
+    "userId": 1779338059318,
+    "message": "who is chief minister their",
+    "response": "The Chief Minister is a term used in several countries, including India, Pakistan, and some states in Malaysia. In India, the Chief Minister is the head of government in a state, while in Pakistan, the Chief Minister is the leader of the provincial government. The Chief Minister is appointed by the Governor or President, depending on the country's political system.",
+    "createdAt": "2026-05-21T04:36:09.071Z"
+  },
+  {
+    "userId": 1779338059318,
+    "message": "chief minister of westbengal",
+    "response": "The current Chief Minister of West Bengal is Mamata Banerjee.",
+    "createdAt": "2026-05-21T04:36:33.403Z"
+  }
+]
